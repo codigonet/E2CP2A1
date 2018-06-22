@@ -1,0 +1,74 @@
+html, body{
+  margin: 0px;
+  padding: 0px;
+  font-size: 12px;
+}
+.box-1 {
+  padding: 50px 0;
+  color: white;
+  text-align: center;
+  background-image: url('../images/bg.jpeg')
+}
+.box-1 .header-text {
+  font-size: 23px;
+}
+.btn{
+  color: white;
+  font-size: 15px;
+  padding: 10px 15px;
+  border-radius: 5px;
+  border: none;
+}
+.light-blue{
+  background-color: lightblue;   
+}
+.box-1 .light-green{
+  background-color: lightgreen;   
+}
+.box-1 p.bottom-text{
+  font-size: 15px;
+  color: rgba(255, 255, 255, .5);
+  text-align: center;
+  padding: 0 20%;
+}
+
+
+.box-2{
+  text-align: center;
+  width: 70%;
+  margin: 0px auto;
+  padding-top: 50px;
+}
+
+.box-2 h2{
+  text-transform: uppercase;
+}
+
+.box-2 img{
+  width: 70%;
+}
+
+.box-3 {
+  text-align: center;
+  padding: 3% 15%;
+  border-top: 1px solid lightgray;
+  border-bottom: 1px solid lightgray;
+}
+
+.box-4 {
+  width: 100%;
+  margin: 5% 0;
+}
+
+.par {
+  width: 30%;
+  display: inline-block;
+}
+
+.par-1 {
+  padding-left: 20%;
+}
+
+a {
+  text-decoration: none;
+}
